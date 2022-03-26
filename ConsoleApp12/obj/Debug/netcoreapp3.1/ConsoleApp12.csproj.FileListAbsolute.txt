@@ -1,0 +1,14 @@
+C:\Users\isasa\Desktop\Test\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.exe
+C:\Users\isasa\Desktop\Test\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.deps.json
+C:\Users\isasa\Desktop\Test\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.json
+C:\Users\isasa\Desktop\Test\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.dev.json
+C:\Users\isasa\Desktop\Test\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\isasa\Desktop\Test\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\Users\isasa\Desktop\Test\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csproj.AssemblyReference.cache
+C:\Users\isasa\Desktop\Test\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isasa\Desktop\Test\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\isasa\Desktop\Test\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfo.cs
+C:\Users\isasa\Desktop\Test\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\isasa\Desktop\Test\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\isasa\Desktop\Test\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\Users\isasa\Desktop\Test\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.genruntimeconfig.cache
